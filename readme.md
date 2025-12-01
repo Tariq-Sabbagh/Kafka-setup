@@ -194,7 +194,7 @@ and make the same commands
 
 ## Docker setup: Kafka 3.7.0 (bitnami legacy image) + Kafka UI (provectuslabs/kafka-ui) running via docker compose, tested with producer/consumer from inside the Kafka container.
 
-## Both setups successfully created topics and produced/consumed messages for testing.
+## Both setups successfully created topics and produced/consumed messages and test it.
 
 
 
